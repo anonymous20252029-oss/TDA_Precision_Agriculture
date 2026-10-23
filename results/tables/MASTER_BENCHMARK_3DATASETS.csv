@@ -1,0 +1,16 @@
+Dataset,Model,Baseline_R2,Proposed_TDA_R2,R2_Gain_(%),Baseline_RMSE,Proposed_TDA_RMSE
+Soil_Property_Benchmark,ExtraTrees,0.882895,0.874205,-0.984272,3.08015,3.20926
+Soil_Property_Benchmark,RandomForest,0.869782,0.86684,-0.338251,3.223142,3.260808
+Soil_Property_Benchmark,XGBoost,0.868858,0.864398,-0.513301,3.176588,3.218346
+Soil_Property_Benchmark,LightGBM,0.870998,0.858156,-1.474484,3.236583,3.395931
+Soil_Property_Benchmark,CatBoost,0.888876,0.881627,-0.815521,3.022322,3.127778
+Crop_Yield_Quality_Benchmark,ExtraTrees,0.555716,0.556887,0.210766,0.590095,0.589366
+Crop_Yield_Quality_Benchmark,RandomForest,0.527165,0.532915,1.090757,0.608752,0.605057
+Crop_Yield_Quality_Benchmark,XGBoost,0.466472,0.477518,2.368059,0.646652,0.639929
+Crop_Yield_Quality_Benchmark,LightGBM,0.474426,0.483735,1.96218,0.641844,0.63615
+Crop_Yield_Quality_Benchmark,CatBoost,0.407867,0.420462,3.088058,0.68117,0.673845
+Agro_Climate_TimeSeries,ExtraTrees,0.551408,0.573599,4.024411,2.721805,2.652331
+Agro_Climate_TimeSeries,RandomForest,0.567659,0.5897,3.882788,2.67171,2.601988
+Agro_Climate_TimeSeries,XGBoost,0.59488,0.593575,-0.219294,2.585781,2.590064
+Agro_Climate_TimeSeries,LightGBM,0.598024,0.601147,0.522249,2.575896,2.566308
+Agro_Climate_TimeSeries,CatBoost,0.623397,0.621459,-0.310781,2.493218,2.499679

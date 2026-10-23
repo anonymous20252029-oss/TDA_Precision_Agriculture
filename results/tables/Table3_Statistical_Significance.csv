@@ -1,0 +1,6 @@
+Dataset,Model,Baseline_R2,Proposed_R2,p_value
+Soil_Property,ExtraTrees,0.8829 ± 0.014,0.8742 ± 0.018,0.0412
+Crop_Yield,CatBoost,0.4079 ± 0.019,0.4205 ± 0.015,< 0.001
+Crop_Yield,XGBoost,0.4665 ± 0.016,0.4775 ± 0.012,< 0.01
+Agro_Climate,ExtraTrees,0.5514 ± 0.021,0.5736 ± 0.016,< 0.001
+Agro_Climate,RandomForest,0.5677 ± 0.018,0.5897 ± 0.014,< 0.01

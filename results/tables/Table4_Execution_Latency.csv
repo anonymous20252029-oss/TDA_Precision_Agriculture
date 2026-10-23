@@ -1,0 +1,5 @@
+Processing Stage,Soil Property (N=505),"Crop Quality (N=4,897)","Agro-Climate (N=3,647)"
+k-NN Spatial Graph Indexing,0.016 s,0.118 s,0.088 s
+"Vietoris-Rips Simplex Filtration (H0, H1)",0.512 s,5.084 s,3.792 s
+Per-Sample Processing Latency,1.01 ms/sample,1.03 ms/sample,1.04 ms/sample
+Ensemble Inference Latency,0.007 s,0.032 s,0.026 s

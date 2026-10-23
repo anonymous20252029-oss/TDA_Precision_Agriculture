@@ -1,0 +1,6 @@
+{
+    "System_Identifier": "TDA_PrecisionAgro_Edge_v1.0",
+    "Target_Crop": "Deciduous Orchard / Vineyard",
+    "Sampling_Frequency": "Daily Rolling Takens (tau=1, d=3)",
+    "Active_Alerts": []
+}

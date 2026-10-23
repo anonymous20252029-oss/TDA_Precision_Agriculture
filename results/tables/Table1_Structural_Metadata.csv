@@ -1,0 +1,4 @@
+Dataset Identifier,Agronomic Domain,N,d,TDA,Target Variable (Y)
+Soil_Property,Soil Nutrients & OM,505,13,3,Spatial Soil Property Index
+Crop_Yield_Quality,Physicochemical Quality,4897,11,3,Quality Grade Metric
+Agro_Climate_TS,Agro-Meteorology,3647,3,3,Daily Min Temp (°C)
