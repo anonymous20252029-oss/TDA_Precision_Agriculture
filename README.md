@@ -78,8 +78,7 @@ python demo/run_demonstration.py
 ```
 ---
 ## 📊 Benchmark Results Summary (Strict 5-Fold Cross-Validation)
-
-All architectures were benchmarked under identical 5-fold CV splits with fixed hyperparameters ($n_{\text{estimators}} = 200, \text{learning\_rate} = 0.05$).
+All architectures were benchmarked under identical 5-fold CV splits with fixed hyperparameters (`n_estimators = 200`, `learning_rate = 0.05`).
 
 ### 1. Cross-Validated Performance Across Modalities
 | Benchmark Dataset | Samples | Evaluated Model | Baseline R² | Baseline RMSE | Proposed (+TDA) R² | Proposed (+TDA) RMSE | Performance Shift (ΔR²) |
